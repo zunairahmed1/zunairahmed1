@@ -16,7 +16,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, Vue Js, <br /> Graphql, Mongodb, Javascript, Python, Java etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/zunairahmed/zunairahmed/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: zunairahmd1@gmail.com.
 
